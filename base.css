@@ -42,7 +42,7 @@ body .middle .cards {
   display: flex;
   flex-direction: column;
 }
-body .middle .cards .card {
+body .middle .cards .individualcard {
   height: 100%;
   width: 90%;
   background-color: olive;

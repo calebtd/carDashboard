@@ -1,3 +1,3 @@
-# Netflix Dashboard
+# Car Dashboard
 
-This is the repo for our Netflix Dashboard Project
+This is the repo for our Car Lookup Dashboard Project

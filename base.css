@@ -4,41 +4,37 @@ body {
 }
 body .container {
   overflow: hidden;
-  max-width: 100%;
+  max-width: 80%;
+  background-color: rgb(194, 194, 194);
+  border-radius: 20px;
 }
-body .container .inside {
-  margin: 20px;
-  padding: 20px;
-}
-body .container .inside .leftSide {
+body .container .leftSide {
   height: 100vh;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 20px;
   background-color: aquamarine;
 }
-body .container .inside .leftSide .formBody {
-  padding: 20px;
-  margin: 20px;
-}
-body .container .inside .middle {
+body .container .middle {
   height: 100vh;
+  margin: 20px;
+  border-radius: 20px;
+  padding: 20px;
   background-color: rgb(53, 202, 152);
   overflow: hidden;
-  margin: 20px;
-  padding: 20px;
 }
-body .container .inside .middle .cardContainer {
+body .container .middle .cardContainer {
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  flex-wrap: wrap;
 }
-body .container .inside .middle .card {
+body .container .middle .card {
   margin: 20px;
   padding: 20px;
 }
-body .container .inside .rightSide {
+body .rightSide {
   height: 100vh;
-  background-color: rgb(36, 78, 64);
-}
-body .container .inside .rightSide .profile {
+  border-radius: 20px;
   padding: 20px;
   margin: 20px;
+  background-color: rgb(36, 78, 64);
 }/*# sourceMappingURL=base.css.map */

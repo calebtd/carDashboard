@@ -4,6 +4,7 @@ body {
 }
 body .container {
   overflow: hidden;
+  max-width: 100%;
 }
 body .container .inside {
   margin: 20px;
@@ -15,13 +16,13 @@ body .container .inside .leftSide {
 }
 body .container .inside .leftSide .formBody {
   padding: 20px;
+  margin: 20px;
 }
 body .container .inside .middle {
   height: 100vh;
   background-color: rgb(53, 202, 152);
   overflow: hidden;
-}
-body .container .inside .middle .carsContainer {
+  margin: 20px;
   padding: 20px;
 }
 body .container .inside .middle .cardContainer {
@@ -39,4 +40,5 @@ body .container .inside .rightSide {
 }
 body .container .inside .rightSide .profile {
   padding: 20px;
+  margin: 20px;
 }/*# sourceMappingURL=base.css.map */

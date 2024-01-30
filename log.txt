@@ -1,0 +1,140 @@
+commit dc34ec9d2831b8d08f6880208c29c5ce66d86709
+Author: Saminja <150490032+Saminja@users.noreply.github.com>
+Date:   Tue Jan 30 08:54:35 2024 -0700
+
+    Changed scss
+
+commit 6fb85cfcd53d299feb6dbb49cee2873f6a8eea53
+Author: Vlad Alvarez <moroni.v.alvarez@gmail.com>
+Date:   Tue Jan 30 09:47:19 2024 -0700
+
+    pushing up new branch with final changes
+
+commit 08a7893ce9dc69e9cddfc503abe80f505a719cf0
+Author: Vlad Alvarez <moroni.v.alvarez@gmail.com>
+Date:   Tue Jan 30 09:18:45 2024 -0700
+
+    clean css
+
+commit 444bb0fe3ad92ffb04358a2e50cb8544bbd80048
+Author: Vlad Alvarez <moroni.v.alvarez@gmail.com>
+Date:   Tue Jan 30 09:10:24 2024 -0700
+
+    clean css
+
+commit 19273a0519d901ae03490b0bb5f041c3fc810f77
+Merge: b1b365e 2c2da73
+Author: calebtd <42586093+calebtd@users.noreply.github.com>
+Date:   Tue Jan 30 08:12:00 2024 -0700
+
+    Merge pull request #5 from calebtd/kyebranch
+    
+    Merge Kye's changes into dev
+
+commit 2c2da73cc7d9b48a2206ebf11b133bb42d49705b
+Author: Kye Clevenger <KyeClevenger@gmail.com>
+Date:   Tue Jan 30 08:05:20 2024 -0700
+
+    dev
+
+commit db1f005e9702473bcb89c786307e52aabe9e3803
+Author: Kye Clevenger <KyeClevenger@gmail.com>
+Date:   Mon Jan 29 10:14:04 2024 -0700
+
+    Kyesviewtwo
+
+commit f7a8fae57a1f2a2a685cabd4da07d4c94be63b5f
+Author: Kye Clevenger <KyeClevenger@gmail.com>
+Date:   Mon Jan 29 10:10:25 2024 -0700
+
+    Kyesview
+
+commit 514cc7309c393c4781e7cc5df2b4e054a21d907c
+Author: Kye Clevenger <KyeClevenger@gmail.com>
+Date:   Mon Jan 29 10:02:43 2024 -0700
+
+    kyesdonetwo
+
+commit 94647d9ea5e31cd473372a50c05c95f0e9872ebe
+Author: Kye Clevenger <KyeClevenger@gmail.com>
+Date:   Mon Jan 29 09:34:21 2024 -0700
+
+    kyedone
+
+commit 23ac757ba4cd125106ce71c53d84c551d3945d03
+Author: Kye Clevenger <KyeClevenger@gmail.com>
+Date:   Mon Jan 29 09:25:34 2024 -0700
+
+    fixedpush
+
+commit c44cfd6e01377571e75c01df1038b5869854e7e5
+Author: Kye Clevenger <KyeClevenger@gmail.com>
+Date:   Mon Jan 29 09:22:43 2024 -0700
+
+    redone
+
+commit b1b365e5fbcf5be50b24aea58a05b31b15fa8300
+Merge: f210569 44cef37
+Author: calebtd <42586093+calebtd@users.noreply.github.com>
+Date:   Fri Jan 26 15:38:45 2024 -0700
+
+    Merge pull request #2 from calebtd/kyebranch
+    
+    Kyebranch into dev
+
+commit 44cef372121dfee9c38eb10816170afa970c3b70
+Author: Kye Clevenger <KyeClevenger@gmail.com>
+Date:   Fri Jan 26 10:54:58 2024 -0700
+
+    doneyes
+
+commit 35b29b9bd652834a0f7a45c5f3a4feb0853cecb7
+Author: Kye Clevenger <KyeClevenger@gmail.com>
+Date:   Fri Jan 26 08:54:59 2024 -0700
+
+    bootstarp
+
+commit 779217a513c0f26ece594804c20801f8124eed6d
+Author: Kye Clevenger <KyeClevenger@gmail.com>
+Date:   Fri Jan 26 08:45:06 2024 -0700
+
+    donehtmllayout
+
+commit f2105698c3e99564475f90bcb1be466f15bb3193
+Merge: ce08365 9b2dfd5
+Author: calebtd <42586093+calebtd@users.noreply.github.com>
+Date:   Fri Jan 26 08:28:44 2024 -0700
+
+    Merge pull request #1 from calebtd/kyebranch
+    
+    Kyebranch into dev
+
+commit 9b2dfd54e97ba3150cea9a17a8ab4e2d9197813a
+Author: Kye Clevenger <KyeClevenger@gmail.com>
+Date:   Fri Jan 26 08:24:43 2024 -0700
+
+    html
+
+commit d55ae8d7050559e188549c8dd409470baf73c54b
+Author: calebtd <42586093+calebtd@users.noreply.github.com>
+Date:   Fri Jan 26 08:01:50 2024 -0700
+
+    Update README.md
+
+commit edb5d4d479de28e343743d32f92091e43f5b1fcb
+Author: calebtd <42586093+calebtd@users.noreply.github.com>
+Date:   Thu Jan 25 10:36:53 2024 -0700
+
+    Update README.md
+
+commit 5ea4dc90a694774907831668069ad32038097faa
+Author: calebtd <caleb@dillenbeck.org>
+Date:   Thu Jan 25 10:36:03 2024 -0700
+
+    Main push
+
+commit ce083658c471364c339971d997364e1245a35e5b
+Author: calebtd <caleb@dillenbeck.org>
+Date:   Thu Jan 25 10:32:28 2024 -0700
+
+    initial files

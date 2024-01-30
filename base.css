@@ -5,7 +5,7 @@ body {
 body .container {
   overflow: hidden;
   max-width: 80%;
-  background-color: rgb(194, 194, 194);
+  background-color: #151e2c;
   border-radius: 20px;
 }
 body .container .leftSide {
@@ -13,15 +13,38 @@ body .container .leftSide {
   border-radius: 20px;
   padding: 20px;
   margin: 20px;
-  background-color: aquamarine;
+  background-color: #151e2c;
+}
+body .container .leftSide form {
+  color: white;
+  text-align: left;
+}
+body .container .leftSide form input, body .container .leftSide form select {
+  background-color: #303D50;
+  color: white;
+  border-radius: 5px;
+  width: 100%;
+  padding: 7px;
+  margin: 5px 0px;
+  border-style: none;
+}
+body .container .leftSide button {
+  background-color: blue;
+  color: white;
+  padding: 7px 20px;
+  border-radius: 7px;
+  margin: 15px 0px;
+  float: left;
+  border-style: none;
 }
 body .container .middle {
   height: 100vh;
   margin: 20px;
   border-radius: 20px;
   padding: 20px;
-  background-color: rgb(53, 202, 152);
+  background-color: #303D50;
   overflow: hidden;
+  color: white;
 }
 body .container .middle .cardContainer {
   display: flex;
@@ -36,7 +59,7 @@ body .rightSide {
   border-radius: 20px;
   padding: 20px;
   margin: 20px;
-  background-color: rgb(36, 78, 64);
+  background-color: #151e2c;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -63,7 +86,6 @@ body .rightSide .buttonsinsidethis .fancyButtons {
 body .rightSide .gridContainer .grid {
   height: 100px;
   width: 120px;
-  background-color: aquamarine;
-  border: 2px solid hotpink;
+  background-color: #303D50;
   margin: 10px;
 }/*# sourceMappingURL=base.css.map */

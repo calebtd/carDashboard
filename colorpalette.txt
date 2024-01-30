@@ -1,0 +1,7 @@
+$darkblue: #151e2c;
+$lightblue: #303D50;
+$applybutton: #335AF9;
+$removebutton: #ff5757;
+$expertadvice: #F8CE01;
+$carservice: #FF6A39;
+$helpcenter: #00B967;

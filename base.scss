@@ -97,6 +97,11 @@ body{
 
                 .gridContainer{
 
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    align-items: center;
+
                     .grid{
                         height: 100px;
                         width: 120px;

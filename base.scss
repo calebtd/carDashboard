@@ -1,0 +1,82 @@
+body{
+    margin: 0;
+    padding: 0;
+
+    .container{
+        overflow: hidden;
+        max-width: 80%;
+        background-color: rgb(194, 194, 194);
+        border-radius: 20px;
+
+            .leftSide{
+                height: 100vh;
+                border-radius: 20px;
+                padding: 20px;
+                margin: 20px;
+                background-color: aquamarine;
+            }
+    
+            .middle{
+                height: 100vh;
+                margin: 20px;
+                border-radius: 20px;
+                padding: 20px; 
+                background-color: rgb(53, 202, 152);
+                overflow: hidden;
+
+                        .cardContainer{
+                            display: flex;
+                            flex-wrap: wrap;
+                        }
+            
+                        .card{
+                            margin: 20px;
+                            padding: 20px; 
+                        }
+                    }
+            }
+    
+            .rightSide{
+                height: 100vh;
+                border-radius: 20px;
+                padding: 20px;
+                margin: 20px;
+                background-color: rgb(36, 78, 64);
+                display: flex;
+                align-items: center;
+                flex-direction: column;
+
+                p{
+                    text-decoration: underline;
+                    color: white;
+                    margin-top: 60px;
+                }
+
+                .buttonsinsidethis{
+                    border-radius: 20px;
+                    margin-top: 60px;
+                    height: 100px;
+                    width: 200px;
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    justify-content: center;
+
+                    .fancyButtons{
+                        margin: 10px;
+                        background-color: rgb(68, 68, 68);
+                    }
+                }
+
+                .gridContainer{
+
+                    .grid{
+                        height: 100px;
+                        width: 120px;
+                        background-color: aquamarine;
+                        border: 2px solid hotpink;
+                        margin: 10px;
+                    }
+                }
+        }
+    }

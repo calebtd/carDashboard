@@ -3,83 +3,67 @@ body {
   padding: 0;
 }
 body .container {
-  width: 100vw;
+  overflow: hidden;
+  max-width: 80%;
+  background-color: rgb(194, 194, 194);
+  border-radius: 20px;
+}
+body .container .leftSide {
   height: 100vh;
-  background-color: black;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 20px;
+  background-color: aquamarine;
 }
-body .bigBox {
-  width: 90%;
-  height: 90%;
-  background-color: gray;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+body .container .middle {
+  height: 100vh;
+  margin: 20px;
+  border-radius: 20px;
+  padding: 20px;
+  background-color: rgb(53, 202, 152);
   overflow: hidden;
 }
-body .leftSide {
-  width: 30%;
-  height: 100%;
-  background-color: rgb(122, 0, 245);
-}
-body .middle {
-  height: 100%;
-  width: 40%;
-  display: flex;
-  flex-direction: column;
-  display: flex;
-  position: relative;
-  align-items: center;
-  overflow: hidden;
-}
-body .middle .txtTop {
-  width: 100%;
-  height: 25%;
-  padding-bottom: 80px;
-  background-color: aqua;
-}
-body .middle .cards {
-  background-color: gold;
-  justify-content: center;
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-}
-body .middle .cards .card {
-  height: 100%;
+body .container .middle .cardContainer {
   display: flex;
   flex-wrap: wrap;
-  position: relative;
 }
-body .middle .cards .card-img-top {
-  height: 200px;
-  background-color: bisque;
-}
-body .middle .cards .individualcard {
-  margin: 10px;
-  background-color: olive;
-  justify-content: center;
-  display: flex;
-  padding: 5px;
+body .container .middle .card {
+  margin: 20px;
+  padding: 20px;
 }
 body .rightSide {
-  width: 30%;
-  height: 100%;
-  background-color: rgb(255, 0, 170);
+  height: 100vh;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 20px;
+  background-color: rgb(36, 78, 64);
   display: flex;
+  align-items: center;
   flex-direction: column;
 }
-body .rightSide .navbar {
-  height: 10%;
-  background-color: rgb(0, 255, 42);
+body .rightSide p {
+  text-decoration: underline;
+  color: white;
+  margin-top: 60px;
 }
-body .rightSide .questions {
-  height: 30%;
-  background-color: orange;
+body .rightSide .buttonsinsidethis {
+  border-radius: 20px;
+  margin-top: 60px;
+  height: 100px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
-body .rightSide .grid {
-  height: 60%;
-  background-color: palevioletred;
+body .rightSide .buttonsinsidethis .fancyButtons {
+  margin: 10px;
+  background-color: rgb(68, 68, 68);
+}
+body .rightSide .gridContainer .grid {
+  height: 100px;
+  width: 120px;
+  background-color: aquamarine;
+  border: 2px solid hotpink;
+  margin: 10px;
 }/*# sourceMappingURL=base.css.map */
